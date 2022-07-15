@@ -1,18 +1,31 @@
-\section{Methodology}
-This section deals with: design considerations, position, velocity and acceleration analysis of the Stewart platform. Both kinematic analysis and dynamic analysis will be looked at.
 
-\subsection{Stewart Platform}
-\subsubsection{Design Considerations}
-\begin{enumerate}
-\item When the controllable axes are active, the platform must be controlled in six degrees of motion.
-\item When the controllable members are stationary the
-platform must have a corresponding fixed position.
-\item The design parameters for consideration are: mobile platform radius, height of the platform and angle between adjacent joints of mobile platform and base plate.
-\item The mechanism should be lightweight.
-\item Velocity and position control of the mechanism should be easy to achieve.
-\end{enumerate}
-\subsubsection{Kinematic Analysis - Rotational matrix}
-Euler angles are utilized to obtain rotational matrix for the moving platform of the Stewart platform mechanism. The rotational matrix is represented as follows:
+\section{Methodology}
+
+
+\subsection{System Modelling}
+
+The predictive maintenance algorithm for motors system will be obtained from governing
+equations from which a transfer function will be generated from the linearized model. The
+transfer function will be used to generate a state space model for the system.
+The observed sources of faults and their relative frequency. Such sources can be the core
+components of the machine or its various sensors (such accelerometers and flow meters).
+The process measurements through sensors. The number, type and location of sensors,
+and their reliability and redundancies all will create both algorithm and comparative
+model.
+The sources of faults will translate to observed symptoms. Such cause-effect analysis will
+require extensive processing of data from the available sensors.
+Physical knowledge about the system dynamics.will result in mathematical modeling of
+the system and its faults and from the insights of data. Understanding system dynamics
+will involve detailed knowledge of relationships among various signals from the machinery
+(such as input-output relationships among the actuators and sensors), the machine operating
+range, and the nature of the measurements (for example, periodic, constant or stochastic).
+The ultimate maintenance goal, such as fault recovery or development of a maintenance
+schedule
+
+\subsection{ Simulations}
+From the generated models on matlab, simulations will be performed using the different
+controllers and the responses and other metrics will be plotted out for further analysis.
+Metrics such as rise time, settling time and stochastic response will be observed to determine the system performance.
 \begin{equation}
  R_{P}^B = R_{Z}(\gamma)*R_{Y}(\beta)*R_{X}(\alpha)
 \end{equation}
@@ -76,9 +89,18 @@ To get the acceleration of the moving platform, differentiate the velocity of th
 \dot{\gamma}
 \end{bmatrix}
 \]
-\subsubsection{Inverse Kinematic Analysis}
-Inverse kinematic analysis is used to determine the length of the legs according to planned trajectories of the moving platform position. In order to consider the length of the leg of a Stewart platform, closed-loop of one leg is used as shown in figure 3.1. Using this closed-form representation, the leg
-vector with respect to base platform can be obtained as follows:
+\subsection{ Sensors}
+Sensors will be used to collect data from the system as it runs. These include:
+\begin{enumerate}
+\item Humidity sensor
+\item Temperature sensor
+\item Flow rate sensor
+\item Pressure sensors
+\item Voltage sensor
+\item Current sensor
+
+These sensors will be used by the controller to observe system performance and optimize for each parameter as well as the performance requirements.
+\end{enumerate}
 \begin{equation}
 \label{eqn}
 L_{i} = q_{i}^{B} - b_{i}
@@ -117,8 +139,8 @@ u_{6}^{T} & (R_{P}^{B}q_{6}^{B} * u_{6})^T
 \]
 \subsubsection{PID Control of the Stewart Platform}
 Proportional-integral-derivative (PID) control is used to control the Stewart platform. A dynamic model of the system is implemented in MatLab/Simulink.
-\subsection{Force Sensor}
-The force sensor module will be used to measure the force and moments from the aerodynamic loads applied on model being tested in the wind tunnel. The forces to be measured are the drag, lift and thrust as well as associated moments. For this subsystem two possible conceptual designs are to be considered:
+\subsection{ Data Analysis}
+The data collected from the simulations and sensors will be analysed using custom software created using jupyter notebooks. Graphs will be generated to compare the performance of each controller and evaluation of the selected controller.
 \begin{itemize}
 \item External force sensor
 \item Stewart Platform as a force sensor
