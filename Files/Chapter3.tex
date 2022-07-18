@@ -1,9 +1,22 @@
 
 \section{Methodology}
 
-\subsection{D}
+\subsection{Data Analytics Process Steps}
+ 
+The motor sensors output digital or analogue electrical signals. This will be parsed to literal temperature and pressure values i.e degrees and bar respectively. 
+This is automated by use of a c bash script that then writes the data into a csv file that is now the accessible database for our algorithm fetch requests. 
+
+Next step is to prepare the data for analysis by wrangling remove unwanted and redundant values. The stage is now set to visualize the data to be able to observe meaningful patterns that can provide useful insights to the motors condition. Ultimately this will also provide the logical descriptive equations on which predictive algorithms will learn from.
+
+To prove meaningful results tests are developed to check if the output is in line with the expected results
 
 
+\begin{figure}[hb]
+	\centering
+	\includegraphics[width=0.7\linewidth]{Figures/data_analytics_process-steps}
+	
+	\label{fig:dataanalyticsprocess-steps}
+\end{figure}
 
 
 \subsection{ Data Analysis}
@@ -12,10 +25,10 @@ The data collected from the sensors will be analyzed using custom software creat
 	\subsubsection{Descriptive analysis}
 	Using exploratory data analysis prior and current running status is determined 
 	
-	\subsection{Predictive analysis}
+	\subsubsection{Predictive analysis}
 	Achieved by building predictive models. The required replacement parts as well as time required for maintenance can be determined.
 	
-	\subsection{Prescriptive analysis}
+	\subsubsection{Prescriptive analysis}
 	This will provide insights on how to create desired outcomes i.e reduce load by 5\% for increased service life 
 	
 \subsection{System Modelling}
@@ -38,16 +51,7 @@ range, and the nature of the measurements (for example, periodic, constant or st
 The ultimate maintenance goal, such as fault recovery or development of a maintenance
 schedule
 
-\subsection{ Process chart}
-From the generated models on, simulations will be performed using the different
-controllers and the responses and other metrics will be plotted out for further analysis using NumPy and Pandas python libraries .
-Values such as rise time, settling time and stochastic response will be observed to determine the system performance.
-\begin{figure}
-	\centering
-	\includegraphics[width=0.7\linewidth]{Figures/model1}
-	\caption{}
-	\label{fig:model1}
-\end{figure}
+
 
 
 \subsection{ Sensors}
@@ -63,7 +67,18 @@ Sensors will be used to collect data from the system as it runs. These include:
 	These sensors will be used by the controller to observe system performance and optimize for each parameter.
 \end{enumerate}
 
+\subsection{ Process chart}
+From the generated models on, simulations will be performed using the different
+controllers and the responses and other metrics will be plotted out for further analysis using NumPy and Pandas python libraries .
+Values such as rise time, settling time and stochastic response will be observed to determine the system performance.
+\begin{figure}
+	\centering
+	\includegraphics[width=0.7\linewidth]{Figures/model1}
+	\caption{Module Process}
+	\label{fig:model1}
+\end{figure}
 
-\subsubsection{External Force Sensor}
 
-\subsubsection{Stewart Platform as a force sensor}
+%\subsubsection{External Force Sensor}
+
+%\subsubsection{Stewart Platform as a force sensor}
