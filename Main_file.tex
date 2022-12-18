@@ -20,6 +20,30 @@
 %\newcommand*{\hermconj}{^{mathsf{H}}}
 \usepackage{MnSymbol}
 %\usepackage{breqn}
+\usepackage{listings}
+\usepackage{color}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+	language=c,
+	aboveskip=3mm,
+	belowskip=3mm,
+	showstringspaces=false,
+	columns=flexible,
+	basicstyle={\small\ttfamily},
+	numbers=none,
+	numberstyle=\tiny\color{gray},
+	keywordstyle=\color{blue},
+	commentstyle=\color{dkgreen},
+	stringstyle=\color{mauve},
+	breaklines=true,
+	breakatwhitespace=true,
+	tabsize=3
+}
+
 %-----Tex width---------------------------------
 \textwidth 16cm
 
@@ -94,11 +118,11 @@
    \large{Department of Marine Engineering and Maritime Operations}\\
 
     ------------------------------------------------------------------------------------------------\\[0.3cm]
-    \LARGE{\textbf{Advanced Condition Based Predictive
+    \LARGE{\textbf{Advance Condition Based Predictive
     		Maintenance of Electric Motors in Ships}}\\[0.3cm]
 
     \large{\textbf{MR-PRO-22-010}}\\[0.4cm]
-    \LARGE{\textbf{INTERIM REPORT
+    \LARGE{\textbf{Final Year Project
             }}\\[0.3cm]
     %\large{by}\\[0.6cm
 
@@ -109,18 +133,16 @@
    \large{\textbf{Supervisors}}\\
    \large{Dr.Benson Oyunge}\\
    \large{Dr.Gerald J. Odhiambo}\\
-<<<<<<< HEAD
+   \vspace{0.6cm}
    
+   
+
    \textit{A project submitted in Partial Fulfillment of the Requirements for the degree of Bachelor of Science in Marine Engineering of The Jomo Kenyatta University of Agriculture and Technology}
 %    \large{\ldots}    \\[0.2cm]\vfill
 %    \large{\small{\today}}\\
-=======
-   \vspace{0.3cm}
-   \large{\textit{A project submitted in Partial Fulfillment of the Requirements for the degree of Bachelors in Science in Marine Engineering of The Jomo Kenyatta University of Agriculture and Technology }}
-% \large{\ldots}    \\[0.2cm]\vfill
 
   %\large{\small{\today}}\\
->>>>>>> 212d688e13ac65fec95e0a21be110c8f2c7ea751
+
     ------------------------------------------------------------------------------------------------\\[1.5cm]
   \end{center}
 \end{titlepage}
@@ -132,23 +154,24 @@
 \addcontentsline{toc}{section}{Table of Contents}
 \tableofcontents
 \clearpage
+
 \addcontentsline{toc}{section}{List of Figures}
-{%
-\let\oldnumberline\numberline%
-\renewcommand{\numberline}{\figurename~\oldnumberline}%
+%\let\oldnumberline\numberline
+%\renewcommand{\numberline}{\figurename~\oldnumberline}
 \listoffigures
 \clearpage
+
 %\addcontentsline{toc}{section}{List of Tables}
 %\listoftables
 %\newpage
 %\clearpage
 %\addcontentsline{toc}{section}{List of Abbreviations}
-\newpage
-\clearpage
+%\newpage
+%\clearpage
 %\newpage
 
-\newpage
-\clearpage
+%\newpage
+%\clearpage
 \input{Files/Abstract}
 \clearpage
 \pagenumbering{arabic}
@@ -159,7 +182,10 @@
     \input{Files/Chapter3}
   \clearpage
     \input{Files/Chapter4}
-%  \clearpage
+  \clearpage
+  	\input{Files/Chapter5}
+  	
+
 %  \input{Files/Summary}
   \clearpage
 %----  Bibliography  ----------------------------------------
