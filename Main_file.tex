@@ -1,28 +1,29 @@
-% !TeX root = Main_file.tex
+%!TeX root =Main_file.tex
+
 \documentclass[12pt,fleqn]{article}
-\usepackage{a4}
+\usepackage[a4paper]{geometry}
 \usepackage{graphicx}
 \usepackage{psfrag}
 \usepackage{amsmath}                     % \boldsymbol{#1}
 \usepackage{amssymb}
-%\usepackage{hangcaption}
+%\usepackage{hangcaption
 %\usepackage{Styles/pstricks}
 %\usepackage{Styles/pst-node}
 \usepackage{Styles/fancyheadings}
 \usepackage{tocloft}
 \usepackage[euler]{textgreek}
-%\usepackage{mathtools}
+\usepackage{mathtools}
 %\usepackage{unicode-math}
 %\setmathfont{XITS Math}
-%\newcommand*{\matr}[1]{\mathbfit{#1}}
+\newcommand*{\matr}[1]{\mathbfit{#1}}
 %\newcommand*{\tran}{^\mkern-1.5mu\mathsf{T}}}
-%\newcommand*{\conj}[1]{\overline{#1}}
-%\newcommand*{\hermconj}{^{mathsf{H}}}
+\newcommand*{\conj}[1]{\overline{#1}}
+\newcommand*{\hermconj}{^{\mathsf{H}}}
 \usepackage{MnSymbol}
 %\usepackage{breqn}
 \usepackage{listings}
 \usepackage{color}
-
+\usepackage{verbatim}
 \definecolor{dkgreen}{rgb}{0,0.6,0}
 \definecolor{gray}{rgb}{0.5,0.5,0.5}
 \definecolor{mauve}{rgb}{0.58,0,0.82}
@@ -59,7 +60,7 @@
 %-----Prevent indent----------------------
 \setlength{\parindent}{0em}
 
-%-----Richtiger Abstand fur Einheiten-------------
+%-----correct spacing for units-------------
 \def\Unit{\hspace{0.25em}}
 
 %-----Definition of the header--------------------
@@ -67,8 +68,8 @@
 \renewcommand{\sectionmark}[1]{\markboth{Chapter~\thesection.~#1}{#1}}
 \renewcommand{\subsectionmark}[1]{\markright{\thesubsection\ #1}}
 \rhead[\fancyplain{}{\leftmark}]%
-{\fancyplain{\thepage}{\thepage}} \cfoot{} \plainheadrulewidth
-0.4pt
+{\fancyplain{\thepage}{\thepage}} \cfoot{}
+\renewcommand{\headrulewidth}{0.4pt}
 %% Otherwise: Overfull \vbox-Warning against fancyheadings-pacakage
 %%  idea of: nic@minster.york.ac.uk (Nick Cropper)
 \makeatletter
@@ -90,15 +91,15 @@
 
 %-----Useful abbreviations----------------------
 \newcommand{\mr}{\mathrm}
-%%\newcommand{\bs}[1]{\mbox{$\boldsymbol{#1}$}}
-\newcommand{\degree}[1]{\mbox{$#1^\circ$}}
-
+\newcommand{\bs}[1]{\mbox{$\boldsymbol{#1}$}}
+%\newcommand{\degree}[1]{\mbox{$#1^\circ$}}
+\newcommand{\degree}[1]{#1^\circ}
 %\renewcommand{\figurename}{Bild}
 
 %------Bibliography style-----------------------
 \bibliographystyle{IEEEtran}
 
-%-----Aufzaehlunstiefe im Literaturverzeichnis---------------
+%-----Bibliography enumeration depth--------------- 
 \setcounter{tocdepth}{3}
 
 \begin{document}
@@ -110,31 +111,29 @@
 \centering
 \includegraphics[width=0.3\linewidth]{Figures/JKUAT_logo}
 %\caption{}
-\label{fig:jomologo}
+%\label{fig:jomologo}
 \end{figure}
-   \large{Jomo Kenyatta University of Agriculture and Technology}\\
+   \large{Jomo kenyatta University of Agriculture and Technology}\\
     \large{College of Engineering and Technology}\\
     \large{School of Mechanical, Materials, and Manufacturing Engineering}\\
    \large{Department of Marine Engineering and Maritime Operations}\\
 
-    ------------------------------------------------------------------------------------------------\\[0.3cm]
+    ------------------------------------------------------------------------------------------------\\[0.2cm]
     \LARGE{\textbf{Advance Condition Based Predictive
-    		Maintenance of Electric Motors in Ships}}\\[0.3cm]
+    		Maintenance of Electric Motors in Ships}}\\[0.2cm]
 
-    \large{\textbf{MR-PRO-22-010}}\\[0.4cm]
-    \LARGE{\textbf{Final Year Project
-            }}\\[0.3cm]
-    %\large{by}\\[0.6cm
+   %\large{\textbf{MR-PRO-23-010}}\\[0.2cm]
+   % \LARGE{\textbf{Final Year Project}}\\[0.2cm]
 
-    \vspace{0.3cm}
  
-     \large{\textbf{Kibichii Kieran~(ENM241-0127/2017)
-            }}\\[0.5cm]
-   \large{\textbf{Supervisors}}\\
-   \large{Dr.Benson Oyunge}\\
-   \large{Dr.Gerald J. Odhiambo}\\
-   \vspace{0.6cm}
-   
+     \large{\textbf{Kirimi Nathan}}\\[0.1cm]
+     \large{\textbf{Kibichii Kieran}}\\[0.1cm]
+     \large{\textbf{Supervisors}}\\
+     \large{Dr.Gerald J. Odhiambo}\\
+     \large{Mr.Elijah M. Munyao}
+     \vspace{0.4cm}
+     
+
    
 
    \textit{A project submitted in Partial Fulfillment of the Requirements for the degree of Bachelor of Science in Marine Engineering of The Jomo Kenyatta University of Agriculture and Technology}
@@ -147,53 +146,52 @@
   \end{center}
 \end{titlepage}
 %
-%\pagenumbering{gobble}% Remove page numbers (and reset to 1)
+\pagenumbering{gobble}% Remove page numbers (and reset to 1)
 
-\input{Files/Declaration}
+%\input{Files/Declaration}
+%\clearpage
+\input{Files/Abstract}
 \clearpage
+
 \addcontentsline{toc}{section}{Table of Contents}
 \tableofcontents
 \clearpage
 
 \addcontentsline{toc}{section}{List of Figures}
-%\let\oldnumberline\numberline
-%\renewcommand{\numberline}{\figurename~\oldnumberline}
+\let\oldnumberline\numberline
+\renewcommand{\numberline}{\figurename~\oldnumberline}
 \listoffigures
 \clearpage
 
-%\addcontentsline{toc}{section}{List of Tables}
-%\listoftables
-%\newpage
-%\clearpage
-%\addcontentsline{toc}{section}{List of Abbreviations}
-%\newpage
-%\clearpage
-%\newpage
+% \addcontentsline{toc}{section}{List of Tables}
+% \listoftables
+% \clearpage
 
-%\newpage
-%\clearpage
-\input{Files/Abstract}
+\addcontentsline{toc}{section}{List of Abbreviations}
+\newpage
 \clearpage
-\pagenumbering{arabic}
-  \input{Files/Introduction}
-  \clearpage
-  \input{Files/Chapter2}
-  \clearpage
-    \input{Files/Chapter3}
-  \clearpage
-    \input{Files/Chapter4}
-  \clearpage
-  	\input{Files/Chapter5}
-  	
 
-%  \input{Files/Summary}
-  \clearpage
+
+\pagenumbering{arabic}
+\input{Files/Introduction}
+\clearpage
+\input{Files/Chapter1.tex}
+\clearpage
+\input{Files/Chapter2.tex}
+\clearpage
+\input{Files/Chapter3.tex}
+\clearpage
+\input{Files/Chapter4.tex}
+\clearpage
+\input{Files/Summary}
+\clearpage
+
 %----  Bibliography  ----------------------------------------
-\markright{References}                               % Erzeugt Kopfzeile
-\addcontentsline{toc}{section}{References}            % Literaturverzeichnis ins Inhaltsverzeichnis
-\bibliographystyle{Bib/IEEEtran}
+\markright{References}                               % Set the header to "References"
+\addcontentsline{toc}{section}{References}            % Bibliography in the table of contents
+%\bibliographystyle{Bib/IEEEtran}
 \bibliography{Bib/References}                         % BIBTeX
 %{Lun01} 
 
-                                     % Falls etwas in die Literaturliste soll, was nicht Referenziert wird
+                                     % If something should be included in the bibliography that is not referenced
 \end{document}

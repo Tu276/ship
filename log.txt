@@ -1,0 +1,871 @@
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.80,Humidity=50.00,Bearing=29.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.80,Humidity=50.10,Bearing=29.94
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.80,Humidity=50.10,Bearing=29.94
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.80,Humidity=50.00,Bearing=29.87
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.80,Humidity=50.00,Bearing=29.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.80,Humidity=50.10,Bearing=29.87
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.80,Humidity=50.10,Bearing=29.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.80,Humidity=50.10,Bearing=29.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=49.50,Bearing=29.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=49.50,Bearing=29.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=49.50,Bearing=29.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=49.50,Bearing=28.94
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=49.60,Bearing=29.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=49.60,Bearing=28.94
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=49.60,Bearing=29.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=49.60,Bearing=28.94
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=49.60,Bearing=29.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=49.50,Bearing=28.94
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=49.50,Bearing=28.94
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=49.50,Bearing=28.94
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=49.60,Bearing=28.94
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=49.70,Bearing=28.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=49.70,Bearing=28.94
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=49.80,Bearing=28.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=49.90,Bearing=28.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=49.90,Bearing=28.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.00,Bearing=28.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=49.90,Bearing=28.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.00,Bearing=28.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.10,Bearing=28.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.10,Bearing=28.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.10,Bearing=28.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.10,Bearing=28.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.10,Bearing=28.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.10,Bearing=28.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.00,Bearing=28.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.10,Bearing=28.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.20,Bearing=28.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.30,Bearing=28.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.40,Bearing=28.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.60,Bearing=28.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.50,Bearing=28.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.40,Bearing=28.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.20,Bearing=28.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.20,Bearing=28.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.10,Bearing=28.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.10,Bearing=28.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.10,Bearing=28.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.20,Bearing=28.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.20,Bearing=28.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.30,Bearing=28.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.20,Bearing=28.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.20,Bearing=28.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.30,Bearing=28.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.30,Bearing=28.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.40,Bearing=28.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.40,Bearing=28.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.30,Bearing=28.69
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.30,Bearing=28.69
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.40,Bearing=28.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.50,Bearing=28.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.50,Bearing=28.69
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.40,Bearing=28.69
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.40,Bearing=28.69
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.30,Bearing=28.69
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=50.30,Bearing=28.62
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.30,Bearing=28.69
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.30,Bearing=28.62
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.40,Bearing=28.69
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.40,Bearing=28.62
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.40,Bearing=28.62
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.40,Bearing=28.69
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.40,Bearing=28.62
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.40,Bearing=28.62
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.50,Bearing=28.62
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.50,Bearing=28.62
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.40,Bearing=28.62
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.50,Bearing=28.62
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.40,Bearing=28.62
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.30,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.30,Bearing=28.62
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=50.30,Bearing=28.62
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.30,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.10,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.10,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.10,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.10,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=50.30,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=50.30,Bearing=28.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.30,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.30,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=50.40,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=50.40,Bearing=28.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=50.40,Bearing=28.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.40,Bearing=28.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.40,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.30,Bearing=28.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=50.20,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=50.20,Bearing=28.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=50.20,Bearing=28.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=50.10,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=50.10,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=50.10,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=50.10,Bearing=28.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=50.00,Bearing=28.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=49.80,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=49.70,Bearing=28.56
+[1225633][E][WiFiClientSecure.cpp:135] connect(): start_ssl_client: -1
+InfluxDB write failed: connection refused
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=49.70,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=50.90,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=49.60,Bearing=28.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=49.70,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=49.50,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=49.50,Bearing=28.56
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.00,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=24.90,Humidity=48.00,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.10,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.10,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.20,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.10,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.10,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.20,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.10,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.00,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.00,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.00,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.00,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.20,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.20,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.30,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.30,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.40,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.50,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.60,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.50,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.50,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.50,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.30,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.30,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.20,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.10,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.10,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.10,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.20,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.20,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.20,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.20,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.20,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.30,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.20,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.10,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.10,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.10,Bearing=26.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.20,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.20,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.10,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.10,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.10,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.20,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.20,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.20,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.10,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.10,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.10,Bearing=26.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.10,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.00,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.00,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.00,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.00,Bearing=26.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.10,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.10,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.10,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.00,Bearing=26.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=47.90,Bearing=26.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=47.80,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=47.80,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=47.80,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=47.70,Bearing=26.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=47.70,Bearing=26.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=47.80,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=47.70,Bearing=26.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=47.70,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=47.80,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=47.90,Bearing=26.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=47.90,Bearing=26.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.00,Bearing=26.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.00,Bearing=26.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.00,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=47.90,Bearing=26.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=47.90,Bearing=26.69
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=47.90,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=47.90,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=47.90,Bearing=26.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=47.90,Bearing=26.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=47.90,Bearing=26.94
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=47.90,Bearing=27.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.00,Humidity=48.00,Bearing=27.06
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.00,Bearing=27.19
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.00,Bearing=27.37
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.00,Bearing=27.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=47.90,Bearing=27.62
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.00,Bearing=27.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=47.90,Bearing=27.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.00,Bearing=28.06
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.00,Bearing=28.25
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.00,Bearing=28.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=48.00,Bearing=28.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=47.90,Bearing=28.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.90,Bearing=29.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=47.70,Bearing=29.19
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.10,Humidity=47.70,Bearing=29.37
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.70,Bearing=29.63
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.60,Bearing=29.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.60,Bearing=30.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.60,Bearing=30.19
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.60,Bearing=30.37
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.50,Bearing=30.62
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.50,Bearing=30.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.50,Bearing=31.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.50,Bearing=31.25
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.50,Bearing=31.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.50,Bearing=31.69
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.60,Bearing=31.87
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.60,Bearing=32.13
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.50,Bearing=32.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.40,Bearing=32.06
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.30,Bearing=32.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.30,Bearing=32.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.20,Bearing=32.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.20,Bearing=32.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.20,Bearing=32.06
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.10,Bearing=32.13
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.20,Bearing=32.19
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.10,Bearing=32.25
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.20,Bearing=32.31
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.10,Bearing=32.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.10,Bearing=32.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.10,Bearing=32.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.10,Bearing=32.63
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.00,Bearing=32.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.00,Bearing=32.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.90,Bearing=32.94
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.10,Bearing=33.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.00,Bearing=33.13
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.10,Bearing=33.19
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.20,Bearing=33.31
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.20,Bearing=33.38
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.20,Bearing=33.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.20,Bearing=33.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.10,Bearing=33.69
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.00,Bearing=33.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.90,Bearing=33.88
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.90,Bearing=34.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=47.00,Bearing=34.06
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.90,Bearing=34.19
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.00,Bearing=34.25
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.90,Bearing=34.38
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.90,Bearing=34.38
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.90,Bearing=34.50
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.90,Bearing=34.63
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.00,Bearing=34.69
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.00,Bearing=34.81
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.30,Humidity=47.00,Bearing=34.88
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.90,Bearing=35.00
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.80,Bearing=35.06
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.80,Bearing=35.06
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.80,Bearing=35.19
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.70,Bearing=35.31
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.80,Bearing=35.38
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.70,Bearing=35.44
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.80,Bearing=35.56
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.80,Bearing=35.63
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.80,Bearing=35.69
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.80,Bearing=35.75
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.80,Bearing=35.88
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.80,Bearing=35.94
+
+Delay 10s
+Writing: measurements,device=ESP32,SSID=iPIC-WIRELESS Temperature=25.20,Humidity=46.90,Bearing=36.00
+
+Delay 10s
